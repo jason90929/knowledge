@@ -1,12 +1,12 @@
 ```
-#### Windows:路徑位置：C:\Users\志豪\.IntelliJIdea14\config\colors
+Windows:路徑位置：C:\Users\志豪\.IntelliJIdea14\config\colors
 ```
 
 ```
-#### Mac步驟：
-* 從Idea建立一個Color & font名稱，並隨便修改個東西(為了讓他產生資料)後關閉Idea
-* 到~/Library/Preferences/IntelliJIdea15/colors/${檔案名稱}.icls
-* vi進去複製以下全貼上，存檔離開。重新開啟Idea
+Mac步驟：
+- 從Idea建立一個Color & font名稱，並隨便修改個東西(為了讓他產生資料)後關閉Idea
+- 到~/Library/Preferences/IntelliJIdea15/colors/${檔案名稱}.icls
+- vi進去複製以下全貼上，存檔離開。重新開啟Idea
 ```
 
 ```xml
